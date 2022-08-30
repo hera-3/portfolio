@@ -17,8 +17,8 @@ export default function Home() {
             <div className={styles.sidebar}>
            
               <div className={styles.social}>
-                <a href="https://github.com/ariaxhera" target={'_blank'} className={styles.git}>Github</a>
-                <a target={'_blank'}  href="https://docs.google.com/document/u/4/d/e/2PACX-1vQVz6oKwYtteRJEbheJZ0DpDeHHfFbCSoMexglcKgycxUf7NhEV4J8AxtsHZtBo3AJO7CwVrSpv8KEJ/pub" className={styles.con}>Contact</a>
+                <a  rel="noreferrer"href="https://github.com/ariaxhera" target={'_blank'} className={styles.git}>Github</a>
+                <a  rel="noreferrer" target={'_blank'}  href="https://docs.google.com/document/u/4/d/e/2PACX-1vQVz6oKwYtteRJEbheJZ0DpDeHHfFbCSoMexglcKgycxUf7NhEV4J8AxtsHZtBo3AJO7CwVrSpv8KEJ/pub" className={styles.con}>Contact</a>
                 <br></br>
                 <h2 className={styles.projectit}>Projects</h2>
               </div>
@@ -29,7 +29,7 @@ export default function Home() {
                 {/* </div> */}
                 <div className={styles.project2}>
                   <div className={styles.ptype} />
-                  <a href='https://gentle-nasturtium-41c834.netlify.app' target={'_blank'} className={styles.ptypet}>typewriter</a>
+                  <a  rel="noreferrer" href='https://gentle-nasturtium-41c834.netlify.app' target={'_blank'} className={styles.ptypet}>typewriter</a>
                 </div>
               </div>
               <div className={styles.mwrap}>
