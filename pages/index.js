@@ -190,13 +190,13 @@ export default function Home() {
             <p className={styles.currentep}>
               A website inspired by retro style
               prints talking about the
-              history of Osakaup until present day. With plans to expand by
+              history of Osaka up until present day. With plans to expand by
               adding neighbouring cities/towns to the project to further
               research into their culture and history. I am taking up this 
-              personal project as the Japanese Graphic designers that I follow
+              personal project as the japanese Graphic designers that I follow
               have an incredible sense of colorwork and knowing how to make
               prints to be visually pleasing and enticing to the reader. 
-              I am taking inspiriation from that and making a couple tribute
+              I am taking inspiriation from this and making a couple tribute
               pages to the histories of towns and/or cities within Japan.</p>
               </div>
               <div className={styles.img}>
@@ -257,22 +257,22 @@ export default function Home() {
                 <h2 className={styles.casetit2}>(for those interested)</h2>
               </div>
               <p className={styles.casecont}>Every developer experiences
-               the soul crushing chapter on their journey where they decide
+               the soul crushing chapter in their journey when they decide
                they need a portfolio website. Countless days, weeks, months designing
-               and prototyping different ideas just to be left feeling empty or as if
-               you have lost sight of the idea you had with the project. I definetely
-               spent some time in this period of doubt and revising ideas constantly,
-               thinking I am doing too little or too much.<br></br><br></br>Until I lost motivation in
-               the project completely. However, a few days later I decided to let my
-               creative self go on a tabloid sized page. Giving myself the oppertunity
-               to do anything that speaks to me visually let me see the end goal once
+               and prototyping different ideas for the UI just to be left feeling empty or as if
+               you have lost sight of the purpose of your project. I definetely
+               spent some time in this period of doubt and revised ideas constantly,
+               often thinking I am doing too little or too much.<br></br><br></br>Until I lost motivation in
+               the project completely. However, A few days later I decided to let my
+               creative self be free on a tabloid sized page. Giving myself the oppertunity
+               to do anything that speaks to me visually led to me seeing the end goal once
                again, creating a new and much more purposeful spark of motivation. 
                It didn’t just appear out of nowhere however. This webpage may look
                like a notebook planner or a printed poster at times and the reason
                for that is because a large chunk of that newfound motivation came 
-               from graphic designers that focused on print. Atliergrey being the 
+               from graphic designers that focused on print. <a className={styles.atli} rel="noreferrer" href='https://www.instagram.com/atelier_gray/' target={'_blank'}>atlier_grey</a> being the 
                most influential of these as they led me through a long journey of 
-               finding other graphic designers that visually spoke to me.</p>
+               discovering other graphic designers that visually spoke to me.</p>
             </div>
           </div>
         </div>
