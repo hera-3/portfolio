@@ -178,7 +178,7 @@ export default function Home() {
               inspiring vanilla tea.
               I am currently situated in Sweden where my spark for frontend
               design started after comitting all hours of my day to completing
-              a responsive web design course followed by becoming a pilgrim of
+              a responsive web design course followed by becoming a pilgrim to
               Javascripts’ endless documentation.
               I have a student learner mindset for I love learning, it keeps me
               grounded, focused and forever developing my craft. </p>
