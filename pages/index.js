@@ -29,7 +29,7 @@ export default function Home() {
                 {/* </div> */}
                 <div className={styles.project2}>
                   <div className={styles.ptype} />
-                  <a  rel="noreferrer" href='https://gentle-nasturtium-41c834.netlify.app' target={'_blank'} className={styles.ptypet}>typewriter</a>
+                  <a rel="noreferrer" href='https://gentle-nasturtium-41c834.netlify.app' target={'_blank'} className={styles.ptypet}>typewriter</a>
                 </div>
               </div>
               <div className={styles.mwrap}>
