@@ -193,7 +193,7 @@ export default function Home() {
               history of Osaka up until present day. With plans to expand by
               adding neighbouring cities/towns to the project to further
               research into their culture and history. I am taking up this 
-              personal project as the japanese Graphic designers that I follow
+              personal project as the Japanese Graphic designers that I follow
               have an incredible sense of colorwork and knowing how to make
               prints to be visually pleasing and enticing to the reader. 
               I am taking inspiriation from this and making a couple tribute
