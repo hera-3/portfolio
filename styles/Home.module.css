@@ -33,7 +33,7 @@
 .title {
   flex-direction: column;
   position: relative;
-  font-family: 'Migra', 'Playfair Display';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 64px;
@@ -70,7 +70,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  font-family: 'BhuTuka One';
+  font-family: 'BhuTuka One', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -103,7 +103,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  font-family: 'BhuTuka One';
+  font-family: 'BhuTuka One', Calibri, 'Trebuchet MS', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -147,7 +147,7 @@
 .social {
   display: flex;
   flex-direction: column;
-  font-family: 'Migra';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
   font-style: normal;
   font-weight: 800;
   font-size: 25px;
@@ -200,7 +200,7 @@
 }
 
 .aboutit {
-  font-family: 'Migra';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 24px;
@@ -208,7 +208,7 @@
 }
 
 .aboutp {
-  font-family: 'Bellota';
+  font-family: 'Bellota', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -236,7 +236,7 @@
 
 .currentit {
   color: #100C08;
-  font-family: 'Migra';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 24px;
@@ -244,7 +244,7 @@
 }
 
 .currentep {
- font-family: 'Bellota';
+ font-family: 'Bellota', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  color: #100C08;
  font-size: 18px;
 }
@@ -279,7 +279,7 @@
 
 .project {
   position: relative;
-  font-family: 'BhuTuka One';
+  font-family: 'BhuTuka One', Calibri, 'Trebuchet MS', sans-serif;;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -307,7 +307,7 @@
 }
 
 .futuretit {
-  font-family: 'Migra';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 25px;
@@ -316,7 +316,7 @@
 }
 
 .futureli {
-  font-family: 'Bellota';
+  font-family: 'Bellota', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -342,7 +342,7 @@
 }
 
 .skillstit {
-  font-family: 'Migra';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 25px;
@@ -350,7 +350,7 @@
 }
 
 .skillsli {
-  font-family: 'Bellota';
+  font-family: 'Bellota', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -378,7 +378,7 @@
 .marg2 {
 
 width: 20px;
-font-family: 'Bhavuka';
+font-family: 'Bhavuka', Arial, Helvetica, sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 10px;
@@ -399,7 +399,7 @@ color: #100C08;
 .marg3 {
   opacity: 0;
   width: 20px;
-  font-family: 'Bhavuka';
+  font-family: 'Bhavuka', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
@@ -427,7 +427,7 @@ color: #100C08;
 
 .marg1 {
   width: 20px;
-  font-family: 'Bhavuka';
+  font-family: 'Bhavuka', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
@@ -443,7 +443,7 @@ color: #100C08;
 
 .colorscheme {
 
-  font-family: 'BhuTuka One';
+  font-family: 'BhuTuka One', Calibri, 'Trebuchet MS', sans-serif;;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -560,7 +560,7 @@ color: #100C08;
 }
 
 .casetit {
-  font-family: 'Migra';
+  font-family: 'Migra', 'Playfair Display', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 24px;
@@ -569,7 +569,7 @@ color: #100C08;
 }
 
 .casetit2 {
-  font-family: 'BhuTuka One';
+  font-family: 'BhuTuka One', Calibri, 'Trebuchet MS', sans-serif;;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -579,7 +579,7 @@ color: #100C08;
 }
 
 .casecont {
-  font-family: 'Bellota';
+  font-family: 'Bellota', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
