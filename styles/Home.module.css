@@ -498,6 +498,19 @@ color: #100C08;
   margin-left: 0.5rem;
 }
 
+.c1t .hexsmok {
+  display: none;
+}
+
+.c1t:hover .smoky {
+  display: none;
+}
+
+.c1t:hover .hexsmok {
+  display: inline;
+}
+
+
 .colorschemecube2 {
   width: 32px;
   height: 32px;
@@ -510,6 +523,19 @@ color: #100C08;
   margin-left: 0.5rem;
 }
 
+.c2t .hexoak {
+  display: none;
+}
+
+.c2t:hover .chest {
+  display: none;
+}
+
+.c2t:hover .hexoak {
+  display: inline;
+}
+
+
 .colorschemecube3 {
   width: 32px;
   height: 32px;
@@ -520,6 +546,18 @@ color: #100C08;
   margin-top: 0px;
   margin-left: 0.5rem;
   width: 320px; 
+}
+
+.c3t .hexcot {
+  display: none;
+}
+
+.c3t:hover .apricot {
+  display: none;
+}
+
+.c3t:hover .hexcot {
+  display: inline;
 }
 
 .colorschemecube4 {
@@ -534,6 +572,18 @@ color: #100C08;
   width: 320px;
 }
 
+.c4t .hexpagne {
+  display: none;
+}
+
+.c4t:hover .champagne {
+  display: none;
+}
+
+.c4t:hover .hexpagne {
+  display: inline;
+}
+
 .colorschemecube5 {
   width: 32px;
   height: 32px;
@@ -544,6 +594,18 @@ color: #100C08;
   width: 320px;
   margin-top: 0.25rem;
   margin-left: 0.5rem;
+}
+
+.c5t .hexosaka {
+  display: none;
+}
+
+.c5t:hover .osakagold {
+  display: none;
+}
+
+.c5t:hover .hexosaka {
+  display: inline;
 }
 
 .case {
