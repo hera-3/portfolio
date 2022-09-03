@@ -278,7 +278,7 @@ export default function Home() {
                you have lost sight of the purpose of your project. I definetely
                spent some time in this period of doubt and revised ideas constantly,
                often thinking I am doing too little or too much.<br></br><br></br>Until I lost motivation in
-               the project completely. However, A few days later I decided to let my
+               the project completely. However, a few days later I decided to let my
                creative self be free on a tabloid sized page. Giving myself the oppertunity
                to do anything that speaks to me visually led to me seeing the end goal once
                again, creating a new and much more purposeful spark of motivation. 
