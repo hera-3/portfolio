@@ -172,15 +172,12 @@ export default function Home() {
             <div>
               <h2 className={styles.aboutit}>About me</h2>
               <p className={styles.aboutp}>
-              I am an aesthetics focused frontend
-              developer with a background
-              of illustration, graphic design and a fresh blend of idea
-              inspiring vanilla tea.
+              I am an aesthetics focused Artist with a background
+              of illustration, graphic design and a fresh blend of coffee.
               I am currently situated in Sweden where my spark for frontend
-              design started after comitting all hours of my day to completing
-              a responsive web design course followed by becoming a pilgrim to
-              Javascripts’ endless documentation.
-              I have a student learner mindset for I love learning, it keeps me
+              design started, causing a domino effect of finding new knowledge and interests
+              for multiple mediums of Design. To briefly name a few: UX/UI Design; Illustration; 3D Art; Frontend Development & Video Editing.
+              I have a student learner mindset, I love learning, it keeps me
               grounded, focused and forever developing my craft. </p>
             </div>
           </div>
@@ -190,14 +187,15 @@ export default function Home() {
             <p className={styles.currentep}>
               A website inspired by retro style
               prints talking about the
-              history of Osaka up until present day. With plans to expand by
-              adding neighbouring cities/towns to the project to further
-              research into their culture and history. I am taking up this 
-              personal project as the Japanese Graphic designers that I follow
-              have an incredible sense of colorwork and knowing how to make
-              prints to be visually pleasing and enticing to the reader. 
-              I am taking inspiriation from this and making a couple tribute
-              pages to the histories of towns and/or cities within Japan.</p>
+              history of Osaka up until present day. 
+              I am taking up this personal project as the Japanese Graphic designers that I have followed and learnt from
+              are a huge inspiration for my choices of colorwork and level of visual prettiness I
+              want to acheive.
+              <br></br><br></br>A visually aesthetic focused render in a 3D environment,
+              heavily inspired by Chen Jiacheng & Sakura Rabbiter, both incredibly talented Game developers.
+              I chose this project for I love the 
+              flexibility and complexity of 3D renders. It would greatly expand my artistic knowledge and help aid my visual language.
+            </p>
               </div>
               <div className={styles.img}>
             <Image src={isothing}  objectFit='contain' />
@@ -207,21 +205,19 @@ export default function Home() {
             <h1 className={styles.futuretit}>Future Projects</h1>
             <ul className={styles.futureli}>
               <li>Dark mode for this portfolio page.</li>
-              <li>Open source terminal &
-                  vscode color theme that will be available on github and the vscode marketplace.</li>
-              <li>Pixel art illustrations gallery to store my pixel illustrations.</li>
-              <li>Make the custom color scheme usable with Neovim.</li>
+              <li>Visual renders in blender and/or Unreal Engine.</li>
+              <li>Gallery website for visual side projects.</li>
             </ul>
           </div>
           <div id='skills' className={styles.skills}>
             <h1 className={styles.skillstit}>Skills</h1>
             <ul className={styles.skillsli}>
-              <li>Photoshop ~ 4+ years</li>
-              <li>Figma ~ 1+ year</li>
+              <li>Photoshop ~ 5 years</li>
+              <li>Figma ~ 2 year</li>
+              <li>Blender ~ 1 year</li>
               <li>HTML</li>
               <li>CSS</li>
               <li>Javascript</li>
-              <li>React</li>
               <li>Next.js</li>
               <li>Git</li>
             </ul>
@@ -271,17 +267,17 @@ export default function Home() {
                 <h1 className={styles.casetit}>Case Study</h1>
                 <h2 className={styles.casetit2}>(for those interested)</h2>
               </div>
-              <p className={styles.casecont}>Every developer experiences
-               the soul crushing chapter in their journey when they decide
+              <p className={styles.casecont}>Every designer experiences
+               the difficult chapter in their journey when they decide
                they need a portfolio website. Countless days, weeks, months designing
-               and prototyping different ideas for the UI just to be left feeling empty or as if
-               you have lost sight of the purpose of your project. I definetely
+               and prototyping different ideas for the UX & UI experience just to be left feeling incomplete or as if
+               you have lost sight of the visual goal of your portfolio. I
                spent some time in this period of doubt and revised ideas constantly,
-               often thinking I am doing too little or too much.<br></br><br></br>Until I lost motivation in
+               often thinking I am not doing myself justice.<br></br><br></br>Until I lost motivation in
                the project completely. However, a few days later I decided to let my
-               creative self be free on a tabloid sized page. Giving myself the oppertunity
-               to do anything that speaks to me visually led to me seeing the end goal once
-               again, creating a new and much more purposeful spark of motivation. 
+               creative self be let free on a tabloid sized page in Figma. Giving myself the oppertunity
+               to do anything that spoke to me visually led to me seeing the end goal once
+               again, creating a new and much more purposeful inital design. 
                It didn’t just appear out of nowhere however. This webpage may look
                like a notebook planner or a printed poster at times and the reason
                for that is because a large chunk of that newfound motivation came 
